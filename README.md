@@ -2,21 +2,18 @@
 > Instancia personal de Hermes Agent — autónomo, con memoria persistente
 > e integraciones reales corriendo 24/7 en servidor propio.
 
-[
+
 
 ![Framework](https://img.shields.io/badge/framework-Hermes%20Agent-purple)
 
-]()
-[
+
 
 ![Runtime](https://img.shields.io/badge/runtime-Python%203.12-blue)
 
-]()
-[
+
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-]()
 
 ## ¿Qué es?
 Jinx es una instancia configurada de Hermes Agent (Nous Research) corriendo
